@@ -1,0 +1,57 @@
+{
+ "ins-cloud-hosting": {
+  "chart": {
+   "type": "bar"
+  },
+  "facts_hash": "ddfff5ba7dbd4c27",
+  "narrative": {
+   "context": "That is 45.2% above the budget of $95,662 and 47.7% above the trailing three-month average of $94,002. One flagged item of $46,250 from Nimbus Compute LLC is still open (pending).",
+   "what": "Cloud Hosting spend was $138,862, up 49.5% on the prior month's $92,876.",
+   "why": "The increase is mainly a rate effect. Customers grew 12.5%, from 24 to 27, but cost per customer rose 32.9%, from $3,870 to $5,143."
+  }
+ },
+ "ins-marketing": {
+  "chart": {
+   "type": "bar"
+  },
+  "facts_hash": "ebeeebc8288b0ab1",
+  "narrative": {
+   "context": "Spend is 27.5% below budget of $98,960 and 10.6% below the trailing three-month average of $80,301.",
+   "what": "Marketing spend was $71,775, down 29.6% from the prior month's $102,021.",
+   "why": "Customers rose 12.5% from 24 to 27, so the fall comes from lower spend per customer, which went from $4,251 to $2,658 (down 37.5%). Summit Events Co is the largest vendor movement, down $32,920. The facts give no further explanation, so the cause is not yet explained."
+  }
+ },
+ "ins-office-admin": {
+  "chart": {
+   "type": "bar"
+  },
+  "facts_hash": "5092fd7fd0c449d7",
+  "narrative": {
+   "context": "Spend is 12.5% above budget of $163,931.45 and 13.5% above the trailing three-month average of $162,486.67. One flagged item, Bluebird Coffee & Catering for $1,950, is still open and pending review.",
+   "what": "Office & Admin spend was $184,350.51, up 13.6% versus the prior month of $162,308.37.",
+   "why": "The increase is mainly volume-driven, with headcount rising 13.0% from 46 to 52. Cost per head moved only 0.5%, to $3,545.20 from $3,528.44, and CDW was the largest vendor contributor at 25.4% share."
+  }
+ },
+ "ins-payroll": {
+  "chart": {
+   "type": "bar"
+  },
+  "facts_hash": "5504a08ff9cad642",
+  "narrative": {
+   "context": "Spend is 8.5% above the budget of $655,343 and 13.8% above the trailing three-month average of $624,536.",
+   "what": "Payroll & Benefits was $710,790 this month, up 13.2% versus the prior month's $628,037.",
+   "why": "The increase is driven by headcount, which rose from 46 to 52 (13.0%). Cost per head was nearly flat at $13,669 versus $13,653 the prior month, and Payroll - Engineering, at 32.1% of the total, was the largest contributor to the increase."
+  }
+ },
+ "ins-revenue": {
+  "chart": {
+   "type": "bar"
+  },
+  "facts_hash": "76c3b97a99e65caa",
+  "narrative": {
+   "context": "Revenue is 6.8% above budget of $388,549 (a $26,509 favourable variance) and 16.6% above the trailing three-month average of $356,032.",
+   "what": "Subscription Revenue was $415,058, up 13.2% on the prior month's $366,555, an increase of $48,503.",
+   "why": "The increase is mainly volume: customers rose from 24 to 27 (12.5%), which accounts for $45,819 of the change (94.5%). Revenue per customer moved only 0.7%, from $15,273 to $15,373, adding $2,683 through rate."
+  }
+ }
+}

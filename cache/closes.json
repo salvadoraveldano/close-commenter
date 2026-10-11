@@ -1,0 +1,15 @@
+[
+ {
+  "close_id": "CLS-2026-08-0a951f",
+  "period": "2026-08",
+  "hash": "c20781810955e12764687ee1fcbae0acecd5a999d572c1af73ffd503cea276ac",
+  "prev_hash": "",
+  "topic_id": "0.0.10991249",
+  "messages": 14,
+  "bytes": 11841,
+  "tier": "full",
+  "links": "[{\"label\": \"Begin transaction\", \"url\": \"https://hashscan.io/testnet/transaction/0.0.10942991-1791742359-650642524\"}, {\"label\": \"Commit transaction\", \"url\": \"https://hashscan.io/testnet/transaction/0.0.10942991-1791742364-890394180\"}]",
+  "closed_by": "u_controller",
+  "ts": "2026-10-11T18:12:49Z"
+ }
+]

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Close Commenter</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/cards.css">
+<link rel="stylesheet" href="/static/deck.css">
+</head>
+<body>
+<div id="app"></div>
+
+<dialog id="routeDlg" aria-labelledby="rdT">
+  <form id="routeForm">
+    <h2 id="rdT">Route <span id="rdId"></span></h2>
+    <p class="muted" id="rdSub"></p>
+    <label>To<select id="rdTo"></select></label>
+    <label>Reason
+      <select id="rdReason">
+        <option value="second_opinion">Second opinion</option>
+        <option value="investigation">Investigation</option>
+        <option value="clarification">Clarification</option>
+        <option value="approval">Approval</option>
+      </select>
+    </label>
+    <label>Note<textarea id="rdNote" rows="3" required placeholder="What should they look at?"></textarea></label>
+    <div id="rdMsg" class="box bad" role="alert" hidden></div>
+    <div class="dlg-foot">
+      <button type="button" class="btn" data-act="routeCancel">Cancel</button>
+      <button type="submit" class="btn primary">Route</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="/static/vendor/chart.umd.js"></script>
+<script src="/static/cards.js"></script>
+<script src="/static/deck.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

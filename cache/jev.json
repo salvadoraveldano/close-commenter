@@ -1,0 +1,3274 @@
+{
+ "2609-0001": {
+  "confidence": 0.86,
+  "fraud": 0.1,
+  "latency_ms": 206,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.045
+ },
+ "2609-0002": {
+  "confidence": 0.98,
+  "fraud": 0.09,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0003": {
+  "confidence": 0.49,
+  "fraud": 0.12,
+  "latency_ms": 184,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0004": {
+  "confidence": 0.53,
+  "fraud": 0.71,
+  "latency_ms": 204,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.915
+ },
+ "2609-0005": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0006": {
+  "confidence": 0.86,
+  "fraud": 0.11,
+  "latency_ms": 182,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.045
+ },
+ "2609-0007": {
+  "confidence": 0.16,
+  "fraud": 0.3,
+  "latency_ms": 237,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0008": {
+  "confidence": 0.4,
+  "fraud": 0.18,
+  "latency_ms": 208,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0009": {
+  "confidence": 0.46,
+  "fraud": 0.14,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0010": {
+  "confidence": 0.95,
+  "fraud": 0.09,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.015
+ },
+ "2609-0011": {
+  "confidence": 1.0,
+  "fraud": 0.06,
+  "latency_ms": 206,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.0
+ },
+ "2609-0012": {
+  "confidence": 0.33,
+  "fraud": 0.24,
+  "latency_ms": 153,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.23
+ },
+ "2609-0013": {
+  "confidence": 0.22,
+  "fraud": 0.49,
+  "latency_ms": 195,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.64
+ },
+ "2609-0014": {
+  "confidence": 0.41,
+  "fraud": 0.65,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.805
+ },
+ "2609-0015": {
+  "confidence": 0.9,
+  "fraud": 0.1,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0016": {
+  "confidence": 0.39,
+  "fraud": 0.13,
+  "latency_ms": 216,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.205
+ },
+ "2609-0017": {
+  "confidence": 0.71,
+  "fraud": 0.09,
+  "latency_ms": 136,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.1
+ },
+ "2609-0018": {
+  "confidence": 0.34,
+  "fraud": 0.33,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.46
+ },
+ "2609-0019": {
+  "confidence": 0.15,
+  "fraud": 0.22,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0020": {
+  "confidence": 0.83,
+  "fraud": 0.11,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.055
+ },
+ "2609-0021": {
+  "confidence": 0.49,
+  "fraud": 0.08,
+  "latency_ms": 175,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.17
+ },
+ "2609-0022": {
+  "confidence": 0.46,
+  "fraud": 0.12,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0023": {
+  "confidence": 0.97,
+  "fraud": 0.09,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0024": {
+  "confidence": 0.46,
+  "fraud": 0.12,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.175
+ },
+ "2609-0025": {
+  "confidence": 0.4,
+  "fraud": 0.13,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0026": {
+  "confidence": 0.67,
+  "fraud": 0.1,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0027": {
+  "confidence": 0.49,
+  "fraud": 0.12,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.17
+ },
+ "2609-0028": {
+  "confidence": 0.53,
+  "fraud": 0.12,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.155
+ },
+ "2609-0029": {
+  "confidence": 0.41,
+  "fraud": 0.13,
+  "latency_ms": 230,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0030": {
+  "confidence": 0.85,
+  "fraud": 0.11,
+  "latency_ms": 186,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0031": {
+  "confidence": 0.91,
+  "fraud": 0.1,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.03
+ },
+ "2609-0032": {
+  "confidence": 0.22,
+  "fraud": 0.2,
+  "latency_ms": 202,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0033": {
+  "confidence": 0.29,
+  "fraud": 0.76,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.98
+ },
+ "2609-0034": {
+  "confidence": 0.22,
+  "fraud": 0.24,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.26
+ },
+ "2609-0035": {
+  "confidence": 0.46,
+  "fraud": 0.26,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.38
+ },
+ "2609-0036": {
+  "confidence": 0.4,
+  "fraud": 0.18,
+  "latency_ms": 148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0037": {
+  "confidence": 0.51,
+  "fraud": 0.14,
+  "latency_ms": 140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0038": {
+  "confidence": 0.82,
+  "fraud": 0.08,
+  "latency_ms": 150,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.06
+ },
+ "2609-0039": {
+  "confidence": 0.14,
+  "fraud": 0.22,
+  "latency_ms": 164,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.475
+ },
+ "2609-0040": {
+  "confidence": 0.27,
+  "fraud": 0.13,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.245
+ },
+ "2609-0041": {
+  "confidence": 0.4,
+  "fraud": 0.16,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.315
+ },
+ "2609-0042": {
+  "confidence": 0.55,
+  "fraud": 0.73,
+  "latency_ms": 142,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.85
+ },
+ "2609-0043": {
+  "confidence": 0.91,
+  "fraud": 0.09,
+  "latency_ms": 1159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.03
+ },
+ "2609-0044": {
+  "confidence": 0.16,
+  "fraud": 0.12,
+  "latency_ms": 1137,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0045": {
+  "confidence": 0.04,
+  "fraud": 0.21,
+  "latency_ms": 1160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0046": {
+  "confidence": 0.56,
+  "fraud": 0.14,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0047": {
+  "confidence": 0.85,
+  "fraud": 0.11,
+  "latency_ms": 1133,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0048": {
+  "confidence": 0.28,
+  "fraud": 0.27,
+  "latency_ms": 194,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.33
+ },
+ "2609-0049": {
+  "confidence": 0.33,
+  "fraud": 0.13,
+  "latency_ms": 1143,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.23
+ },
+ "2609-0050": {
+  "confidence": 0.93,
+  "fraud": 0.08,
+  "latency_ms": 2158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.025
+ },
+ "2609-0051": {
+  "confidence": 0.38,
+  "fraud": 0.77,
+  "latency_ms": 222,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.975
+ },
+ "2609-0052": {
+  "confidence": 0.37,
+  "fraud": 0.18,
+  "latency_ms": 206,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.21
+ },
+ "2609-0053": {
+  "confidence": 0.5,
+  "fraud": 0.13,
+  "latency_ms": 140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0054": {
+  "confidence": 0.46,
+  "fraud": 0.14,
+  "latency_ms": 142,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0055": {
+  "confidence": 0.27,
+  "fraud": 0.23,
+  "latency_ms": 196,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.315
+ },
+ "2609-0056": {
+  "confidence": 0.59,
+  "fraud": 0.11,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0057": {
+  "confidence": 0.55,
+  "fraud": 0.15,
+  "latency_ms": 195,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.15
+ },
+ "2609-0058": {
+  "confidence": 0.52,
+  "fraud": 0.11,
+  "latency_ms": 176,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.155
+ },
+ "2609-0059": {
+  "confidence": 0.43,
+  "fraud": 0.19,
+  "latency_ms": 176,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0060": {
+  "confidence": 0.4,
+  "fraud": 0.15,
+  "latency_ms": 175,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0061": {
+  "confidence": 0.49,
+  "fraud": 0.61,
+  "latency_ms": 1154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.83
+ },
+ "2609-0062": {
+  "confidence": 0.41,
+  "fraud": 0.38,
+  "latency_ms": 1206,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.43
+ },
+ "2609-0063": {
+  "confidence": 0.83,
+  "fraud": 0.09,
+  "latency_ms": 2155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.055
+ },
+ "2609-0064": {
+  "confidence": 0.67,
+  "fraud": 0.12,
+  "latency_ms": 176,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0065": {
+  "confidence": 0.41,
+  "fraud": 0.17,
+  "latency_ms": 1191,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0066": {
+  "confidence": 0.88,
+  "fraud": 0.1,
+  "latency_ms": 2165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.04
+ },
+ "2609-0067": {
+  "confidence": 0.97,
+  "fraud": 0.07,
+  "latency_ms": 149,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0068": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 153,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0069": {
+  "confidence": 0.78,
+  "fraud": 0.12,
+  "latency_ms": 175,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.075
+ },
+ "2609-0070": {
+  "confidence": 0.49,
+  "fraud": 0.14,
+  "latency_ms": 210,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.175
+ },
+ "2609-0071": {
+  "confidence": 0.3,
+  "fraud": 0.22,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.295
+ },
+ "2609-0072": {
+  "confidence": 0.8,
+  "fraud": 0.09,
+  "latency_ms": 193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.07
+ },
+ "2609-0073": {
+  "confidence": 0.58,
+  "fraud": 0.08,
+  "latency_ms": 179,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0074": {
+  "confidence": 0.82,
+  "fraud": 0.11,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.06
+ },
+ "2609-0075": {
+  "confidence": 0.98,
+  "fraud": 0.06,
+  "latency_ms": 183,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0076": {
+  "confidence": 0.4,
+  "fraud": 0.14,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0077": {
+  "confidence": 0.35,
+  "fraud": 0.11,
+  "latency_ms": 181,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0078": {
+  "confidence": 0.7,
+  "fraud": 0.1,
+  "latency_ms": 1174,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.1
+ },
+ "2609-0079": {
+  "confidence": 0.85,
+  "fraud": 0.1,
+  "latency_ms": 2169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0080": {
+  "confidence": 0.98,
+  "fraud": 0.05,
+  "latency_ms": 164,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.0
+ },
+ "2609-0081": {
+  "confidence": 0.37,
+  "fraud": 0.14,
+  "latency_ms": 2168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.21
+ },
+ "2609-0082": {
+  "confidence": 0.19,
+  "fraud": 0.24,
+  "latency_ms": 198,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.27
+ },
+ "2609-0083": {
+  "confidence": 0.85,
+  "fraud": 0.09,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0084": {
+  "confidence": 0.23,
+  "fraud": 0.12,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0085": {
+  "confidence": 0.66,
+  "fraud": 0.12,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0086": {
+  "confidence": 0.59,
+  "fraud": 0.1,
+  "latency_ms": 1148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0087": {
+  "confidence": 0.3,
+  "fraud": 0.11,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.24
+ },
+ "2609-0088": {
+  "confidence": 0.93,
+  "fraud": 0.09,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.025
+ },
+ "2609-0089": {
+  "confidence": 0.55,
+  "fraud": 0.14,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.15
+ },
+ "2609-0090": {
+  "confidence": 0.88,
+  "fraud": 0.12,
+  "latency_ms": 233,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.04
+ },
+ "2609-0091": {
+  "confidence": 0.76,
+  "fraud": 0.12,
+  "latency_ms": 148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.085
+ },
+ "2609-0092": {
+  "confidence": 0.9,
+  "fraud": 0.1,
+  "latency_ms": 193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0093": {
+  "confidence": 0.55,
+  "fraud": 0.11,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.15
+ },
+ "2609-0094": {
+  "confidence": 0.62,
+  "fraud": 0.11,
+  "latency_ms": 173,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0095": {
+  "confidence": 0.85,
+  "fraud": 0.12,
+  "latency_ms": 1183,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0096": {
+  "confidence": 0.37,
+  "fraud": 0.32,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.37
+ },
+ "2609-0097": {
+  "confidence": 0.95,
+  "fraud": 0.07,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.015
+ },
+ "2609-0098": {
+  "confidence": 0.98,
+  "fraud": 0.07,
+  "latency_ms": 1154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0099": {
+  "confidence": 1.0,
+  "fraud": 0.06,
+  "latency_ms": 1146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.0
+ },
+ "2609-0100": {
+  "confidence": 0.71,
+  "fraud": 0.11,
+  "latency_ms": 173,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.095
+ },
+ "2609-0101": {
+  "confidence": 0.73,
+  "fraud": 0.08,
+  "latency_ms": 3144,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.09
+ },
+ "2609-0102": {
+  "confidence": 0.37,
+  "fraud": 0.77,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.97
+ },
+ "2609-0103": {
+  "confidence": 0.61,
+  "fraud": 0.11,
+  "latency_ms": 217,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0104": {
+  "confidence": 0.35,
+  "fraud": 0.26,
+  "latency_ms": 226,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.365
+ },
+ "2609-0105": {
+  "confidence": 0.49,
+  "fraud": 0.13,
+  "latency_ms": 164,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0106": {
+  "confidence": 0.7,
+  "fraud": 0.12,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.1
+ },
+ "2609-0107": {
+  "confidence": 0.44,
+  "fraud": 0.16,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0108": {
+  "confidence": 0.2,
+  "fraud": 0.18,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.265
+ },
+ "2609-0109": {
+  "confidence": 0.44,
+  "fraud": 0.16,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0110": {
+  "confidence": 0.71,
+  "fraud": 0.14,
+  "latency_ms": 189,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.1
+ },
+ "2609-0111": {
+  "confidence": 0.17,
+  "fraud": 0.11,
+  "latency_ms": 1303,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0112": {
+  "confidence": 0.47,
+  "fraud": 0.09,
+  "latency_ms": 1168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.175
+ },
+ "2609-0113": {
+  "confidence": 0.37,
+  "fraud": 0.36,
+  "latency_ms": 1154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.385
+ },
+ "2609-0114": {
+  "confidence": 0.47,
+  "fraud": 0.12,
+  "latency_ms": 2151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.175
+ },
+ "2609-0115": {
+  "confidence": 0.16,
+  "fraud": 0.12,
+  "latency_ms": 182,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0116": {
+  "confidence": 0.34,
+  "fraud": 0.27,
+  "latency_ms": 2140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.34
+ },
+ "2609-0117": {
+  "confidence": 0.61,
+  "fraud": 0.1,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0118": {
+  "confidence": 0.59,
+  "fraud": 0.08,
+  "latency_ms": 145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0119": {
+  "confidence": 0.34,
+  "fraud": 0.16,
+  "latency_ms": 141,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0120": {
+  "confidence": 0.0,
+  "fraud": 0.17,
+  "latency_ms": 193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.595
+ },
+ "2609-0121": {
+  "confidence": 0.88,
+  "fraud": 0.09,
+  "latency_ms": 140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.04
+ },
+ "2609-0122": {
+  "confidence": 0.39,
+  "fraud": 0.21,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.205
+ },
+ "2609-0123": {
+  "confidence": 0.11,
+  "fraud": 0.19,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0124": {
+  "confidence": 0.23,
+  "fraud": 0.21,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0125": {
+  "confidence": 0.33,
+  "fraud": 0.13,
+  "latency_ms": 177,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.225
+ },
+ "2609-0126": {
+  "confidence": 0.43,
+  "fraud": 0.14,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0127": {
+  "confidence": 0.58,
+  "fraud": 0.11,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.14
+ },
+ "2609-0128": {
+  "confidence": 0.59,
+  "fraud": 0.13,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0129": {
+  "confidence": 0.31,
+  "fraud": 0.1,
+  "latency_ms": 2178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.23
+ },
+ "2609-0130": {
+  "confidence": 0.35,
+  "fraud": 0.22,
+  "latency_ms": 147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.29
+ },
+ "2609-0131": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 2169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0132": {
+  "confidence": 0.4,
+  "fraud": 0.12,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0133": {
+  "confidence": 0.29,
+  "fraud": 0.17,
+  "latency_ms": 3147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.235
+ },
+ "2609-0134": {
+  "confidence": 0.49,
+  "fraud": 0.16,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.175
+ },
+ "2609-0135": {
+  "confidence": 0.59,
+  "fraud": 0.31,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0136": {
+  "confidence": 0.71,
+  "fraud": 0.09,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.09
+ },
+ "2609-0137": {
+  "confidence": 0.98,
+  "fraud": 0.09,
+  "latency_ms": 185,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0138": {
+  "confidence": 0.25,
+  "fraud": 0.11,
+  "latency_ms": 144,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0139": {
+  "confidence": 0.44,
+  "fraud": 0.78,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.975
+ },
+ "2609-0140": {
+  "confidence": 0.43,
+  "fraud": 0.12,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0141": {
+  "confidence": 0.61,
+  "fraud": 0.11,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0142": {
+  "confidence": 0.11,
+  "fraud": 0.1,
+  "latency_ms": 195,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.29
+ },
+ "2609-0143": {
+  "confidence": 0.66,
+  "fraud": 0.7,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.895
+ },
+ "2609-0144": {
+  "confidence": 0.59,
+  "fraud": 0.1,
+  "latency_ms": 174,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0145": {
+  "confidence": 0.3,
+  "fraud": 0.18,
+  "latency_ms": 1138,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0146": {
+  "confidence": 0.61,
+  "fraud": 0.15,
+  "latency_ms": 147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0147": {
+  "confidence": 0.0,
+  "fraud": 0.11,
+  "latency_ms": 1165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.35
+ },
+ "2609-0148": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 2156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0149": {
+  "confidence": 0.7,
+  "fraud": 0.14,
+  "latency_ms": 207,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.105
+ },
+ "2609-0150": {
+  "confidence": 0.62,
+  "fraud": 0.15,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0151": {
+  "confidence": 0.34,
+  "fraud": 0.21,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.345
+ },
+ "2609-0152": {
+  "confidence": 0.67,
+  "fraud": 0.12,
+  "latency_ms": 189,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0153": {
+  "confidence": 0.29,
+  "fraud": 0.32,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.335
+ },
+ "2609-0154": {
+  "confidence": 0.76,
+  "fraud": 0.08,
+  "latency_ms": 192,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.085
+ },
+ "2609-0155": {
+  "confidence": 0.46,
+  "fraud": 0.25,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.4
+ },
+ "2609-0156": {
+  "confidence": 0.9,
+  "fraud": 0.11,
+  "latency_ms": 137,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0157": {
+  "confidence": 0.9,
+  "fraud": 0.12,
+  "latency_ms": 184,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.04
+ },
+ "2609-0158": {
+  "confidence": 0.11,
+  "fraud": 0.27,
+  "latency_ms": 235,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0159": {
+  "confidence": 0.0,
+  "fraud": 0.24,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.4
+ },
+ "2609-0160": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 184,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0161": {
+  "confidence": 0.94,
+  "fraud": 0.12,
+  "latency_ms": 2189,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.02
+ },
+ "2609-0162": {
+  "confidence": 0.0,
+  "fraud": 0.16,
+  "latency_ms": 1140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.605
+ },
+ "2609-0163": {
+  "confidence": 0.23,
+  "fraud": 0.12,
+  "latency_ms": 220,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0164": {
+  "confidence": 0.53,
+  "fraud": 0.17,
+  "latency_ms": 1142,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ },
+ "2609-0165": {
+  "confidence": 0.18,
+  "fraud": 0.24,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.27
+ },
+ "2609-0166": {
+  "confidence": 0.52,
+  "fraud": 0.08,
+  "latency_ms": 209,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.155
+ },
+ "2609-0167": {
+  "confidence": 0.4,
+  "fraud": 0.76,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.97
+ },
+ "2609-0168": {
+  "confidence": 0.71,
+  "fraud": 0.13,
+  "latency_ms": 1193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.095
+ },
+ "2609-0169": {
+  "confidence": 0.69,
+  "fraud": 0.1,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0170": {
+  "confidence": 0.0,
+  "fraud": 0.11,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.34
+ },
+ "2609-0171": {
+  "confidence": 0.52,
+  "fraud": 0.15,
+  "latency_ms": 188,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0172": {
+  "confidence": 0.78,
+  "fraud": 0.08,
+  "latency_ms": 206,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.08
+ },
+ "2609-0173": {
+  "confidence": 0.47,
+  "fraud": 0.28,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0174": {
+  "confidence": 0.25,
+  "fraud": 0.28,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0175": {
+  "confidence": 0.62,
+  "fraud": 0.1,
+  "latency_ms": 153,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0176": {
+  "confidence": 0.46,
+  "fraud": 0.4,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.43
+ },
+ "2609-0177": {
+  "confidence": 0.55,
+  "fraud": 0.09,
+  "latency_ms": 1161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0178": {
+  "confidence": 0.0,
+  "fraud": 0.12,
+  "latency_ms": 175,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.39
+ },
+ "2609-0179": {
+  "confidence": 0.64,
+  "fraud": 0.08,
+  "latency_ms": 1150,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0180": {
+  "confidence": 0.01,
+  "fraud": 0.2,
+  "latency_ms": 1147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.325
+ },
+ "2609-0181": {
+  "confidence": 0.34,
+  "fraud": 0.25,
+  "latency_ms": 2170,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0182": {
+  "confidence": 0.55,
+  "fraud": 0.09,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.155
+ },
+ "2609-0183": {
+  "confidence": 0.59,
+  "fraud": 0.12,
+  "latency_ms": 4151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0184": {
+  "confidence": 0.95,
+  "fraud": 0.08,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.015
+ },
+ "2609-0185": {
+  "confidence": 0.64,
+  "fraud": 0.09,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0186": {
+  "confidence": 0.53,
+  "fraud": 0.11,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ },
+ "2609-0187": {
+  "confidence": 0.22,
+  "fraud": 0.21,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.26
+ },
+ "2609-0188": {
+  "confidence": 0.71,
+  "fraud": 0.14,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.095
+ },
+ "2609-0189": {
+  "confidence": 0.23,
+  "fraud": 0.25,
+  "latency_ms": 183,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.285
+ },
+ "2609-0190": {
+  "confidence": 0.22,
+  "fraud": 0.29,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0191": {
+  "confidence": 0.35,
+  "fraud": 0.16,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.21
+ },
+ "2609-0192": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0193": {
+  "confidence": 0.98,
+  "fraud": 0.07,
+  "latency_ms": 1172,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0194": {
+  "confidence": 0.23,
+  "fraud": 0.24,
+  "latency_ms": 1186,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.295
+ },
+ "2609-0195": {
+  "confidence": 0.61,
+  "fraud": 0.09,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0196": {
+  "confidence": 0.22,
+  "fraud": 0.12,
+  "latency_ms": 2162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0197": {
+  "confidence": 0.43,
+  "fraud": 0.26,
+  "latency_ms": 139,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.38
+ },
+ "2609-0198": {
+  "confidence": 0.28,
+  "fraud": 0.11,
+  "latency_ms": 1157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.24
+ },
+ "2609-0199": {
+  "confidence": 0.07,
+  "fraud": 0.11,
+  "latency_ms": 185,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0200": {
+  "confidence": 0.19,
+  "fraud": 0.12,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.33
+ },
+ "2609-0201": {
+  "confidence": 0.31,
+  "fraud": 0.2,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.23
+ },
+ "2609-0202": {
+  "confidence": 0.37,
+  "fraud": 0.22,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.31
+ },
+ "2609-0203": {
+  "confidence": 0.55,
+  "fraud": 0.22,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.39
+ },
+ "2609-0204": {
+  "confidence": 0.25,
+  "fraud": 0.34,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.635
+ },
+ "2609-0205": {
+  "confidence": 0.64,
+  "fraud": 0.1,
+  "latency_ms": 185,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0206": {
+  "confidence": 0.49,
+  "fraud": 0.12,
+  "latency_ms": 190,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0207": {
+  "confidence": 0.61,
+  "fraud": 0.1,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0208": {
+  "confidence": 0.0,
+  "fraud": 0.5,
+  "latency_ms": 193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.615
+ },
+ "2609-0209": {
+  "confidence": 0.91,
+  "fraud": 0.09,
+  "latency_ms": 139,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0210": {
+  "confidence": 0.9,
+  "fraud": 0.09,
+  "latency_ms": 1155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0211": {
+  "confidence": 0.66,
+  "fraud": 0.08,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0212": {
+  "confidence": 0.35,
+  "fraud": 0.14,
+  "latency_ms": 1180,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.285
+ },
+ "2609-0213": {
+  "confidence": 0.55,
+  "fraud": 0.36,
+  "latency_ms": 2165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.52
+ },
+ "2609-0214": {
+  "confidence": 0.83,
+  "fraud": 0.09,
+  "latency_ms": 2162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.055
+ },
+ "2609-0215": {
+  "confidence": 0.38,
+  "fraud": 0.14,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.21
+ },
+ "2609-0216": {
+  "confidence": 1.0,
+  "fraud": 0.08,
+  "latency_ms": 183,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0217": {
+  "confidence": 0.27,
+  "fraud": 0.82,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "duplicate",
+  "unusualness": 0.425
+ },
+ "2609-0218": {
+  "confidence": 0.62,
+  "fraud": 0.07,
+  "latency_ms": 172,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0219": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0220": {
+  "confidence": 0.58,
+  "fraud": 0.16,
+  "latency_ms": 148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.14
+ },
+ "2609-0221": {
+  "confidence": 0.69,
+  "fraud": 0.14,
+  "latency_ms": 147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0222": {
+  "confidence": 0.82,
+  "fraud": 0.11,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.06
+ },
+ "2609-0223": {
+  "confidence": 0.46,
+  "fraud": 0.34,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "split_payment",
+  "unusualness": 0.18
+ },
+ "2609-0224": {
+  "confidence": 0.61,
+  "fraud": 0.1,
+  "latency_ms": 149,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0225": {
+  "confidence": 0.35,
+  "fraud": 0.1,
+  "latency_ms": 150,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0226": {
+  "confidence": 0.52,
+  "fraud": 0.34,
+  "latency_ms": 195,
+  "origin": "live",
+  "risk_type": "split_payment",
+  "unusualness": 0.155
+ },
+ "2609-0227": {
+  "confidence": 0.1,
+  "fraud": 0.25,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.42
+ },
+ "2609-0228": {
+  "confidence": 0.4,
+  "fraud": 0.14,
+  "latency_ms": 1174,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.205
+ },
+ "2609-0229": {
+  "confidence": 0.2,
+  "fraud": 0.25,
+  "latency_ms": 2148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.27
+ },
+ "2609-0230": {
+  "confidence": 0.47,
+  "fraud": 0.34,
+  "latency_ms": 150,
+  "origin": "live",
+  "risk_type": "split_payment",
+  "unusualness": 0.175
+ },
+ "2609-0231": {
+  "confidence": 0.64,
+  "fraud": 0.12,
+  "latency_ms": 150,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0232": {
+  "confidence": 0.22,
+  "fraud": 0.17,
+  "latency_ms": 1177,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.26
+ },
+ "2609-0233": {
+  "confidence": 0.98,
+  "fraud": 0.09,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0234": {
+  "confidence": 0.31,
+  "fraud": 0.13,
+  "latency_ms": 163,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0235": {
+  "confidence": 0.78,
+  "fraud": 0.12,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.08
+ },
+ "2609-0236": {
+  "confidence": 0.22,
+  "fraud": 0.14,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.37
+ },
+ "2609-0237": {
+  "confidence": 0.43,
+  "fraud": 0.78,
+  "latency_ms": 198,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.96
+ },
+ "2609-0238": {
+  "confidence": 0.28,
+  "fraud": 0.21,
+  "latency_ms": 192,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.245
+ },
+ "2609-0239": {
+  "confidence": 0.5,
+  "fraud": 0.14,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ },
+ "2609-0240": {
+  "confidence": 0.61,
+  "fraud": 0.1,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0241": {
+  "confidence": 0.43,
+  "fraud": 0.17,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0242": {
+  "confidence": 0.66,
+  "fraud": 0.13,
+  "latency_ms": 1159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0243": {
+  "confidence": 0.28,
+  "fraud": 0.25,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0244": {
+  "confidence": 0.04,
+  "fraud": 0.11,
+  "latency_ms": 1182,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0245": {
+  "confidence": 0.68,
+  "fraud": 0.11,
+  "latency_ms": 2157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0246": {
+  "confidence": 0.49,
+  "fraud": 0.73,
+  "latency_ms": 2169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.93
+ },
+ "2609-0247": {
+  "confidence": 0.86,
+  "fraud": 0.12,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0248": {
+  "confidence": 0.4,
+  "fraud": 0.11,
+  "latency_ms": 2151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0249": {
+  "confidence": 0.19,
+  "fraud": 0.2,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.275
+ },
+ "2609-0250": {
+  "confidence": 0.61,
+  "fraud": 0.14,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0251": {
+  "confidence": 0.31,
+  "fraud": 0.2,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.225
+ },
+ "2609-0252": {
+  "confidence": 0.69,
+  "fraud": 0.11,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.105
+ },
+ "2609-0253": {
+  "confidence": 0.25,
+  "fraud": 0.25,
+  "latency_ms": 177,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.33
+ },
+ "2609-0254": {
+  "confidence": 0.0,
+  "fraud": 0.21,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.405
+ },
+ "2609-0255": {
+  "confidence": 0.3,
+  "fraud": 0.21,
+  "latency_ms": 170,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.325
+ },
+ "2609-0256": {
+  "confidence": 0.36,
+  "fraud": 0.76,
+  "latency_ms": 143,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.97
+ },
+ "2609-0257": {
+  "confidence": 0.49,
+  "fraud": 0.12,
+  "latency_ms": 173,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0258": {
+  "confidence": 0.4,
+  "fraud": 0.31,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.36
+ },
+ "2609-0259": {
+  "confidence": 0.66,
+  "fraud": 0.09,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0260": {
+  "confidence": 0.35,
+  "fraud": 0.15,
+  "latency_ms": 1145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.415
+ },
+ "2609-0261": {
+  "confidence": 0.63,
+  "fraud": 0.58,
+  "latency_ms": 2143,
+  "origin": "live",
+  "risk_type": "weekend_unusual",
+  "unusualness": 0.9
+ },
+ "2609-0262": {
+  "confidence": 0.58,
+  "fraud": 0.11,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.14
+ },
+ "2609-0263": {
+  "confidence": 0.55,
+  "fraud": 0.16,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.155
+ },
+ "2609-0264": {
+  "confidence": 0.67,
+  "fraud": 0.1,
+  "latency_ms": 2167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.11
+ },
+ "2609-0265": {
+  "confidence": 0.04,
+  "fraud": 0.11,
+  "latency_ms": 172,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.315
+ },
+ "2609-0266": {
+  "confidence": 0.41,
+  "fraud": 0.32,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0267": {
+  "confidence": 0.41,
+  "fraud": 0.16,
+  "latency_ms": 141,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0268": {
+  "confidence": 0.37,
+  "fraud": 0.26,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.34
+ },
+ "2609-0269": {
+  "confidence": 0.28,
+  "fraud": 0.25,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.31
+ },
+ "2609-0270": {
+  "confidence": 0.85,
+  "fraud": 0.1,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.05
+ },
+ "2609-0271": {
+  "confidence": 0.59,
+  "fraud": 0.15,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.13
+ },
+ "2609-0272": {
+  "confidence": 0.52,
+  "fraud": 0.32,
+  "latency_ms": 150,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.45
+ },
+ "2609-0273": {
+  "confidence": 0.1,
+  "fraud": 0.11,
+  "latency_ms": 149,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.295
+ },
+ "2609-0274": {
+  "confidence": 0.11,
+  "fraud": 0.3,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.29
+ },
+ "2609-0275": {
+  "confidence": 0.79,
+  "fraud": 0.11,
+  "latency_ms": 1152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.07
+ },
+ "2609-0276": {
+  "confidence": 0.44,
+  "fraud": 0.19,
+  "latency_ms": 1171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0277": {
+  "confidence": 0.91,
+  "fraud": 0.1,
+  "latency_ms": 196,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.03
+ },
+ "2609-0278": {
+  "confidence": 0.45,
+  "fraud": 0.77,
+  "latency_ms": 3148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.975
+ },
+ "2609-0279": {
+  "confidence": 0.49,
+  "fraud": 0.12,
+  "latency_ms": 2151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.17
+ },
+ "2609-0280": {
+  "confidence": 0.08,
+  "fraud": 0.12,
+  "latency_ms": 198,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0281": {
+  "confidence": 0.78,
+  "fraud": 0.08,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.08
+ },
+ "2609-0282": {
+  "confidence": 0.44,
+  "fraud": 0.17,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0283": {
+  "confidence": 0.7,
+  "fraud": 0.13,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.1
+ },
+ "2609-0284": {
+  "confidence": 0.0,
+  "fraud": 0.12,
+  "latency_ms": 189,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.37
+ },
+ "2609-0285": {
+  "confidence": 0.2,
+  "fraud": 0.09,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.265
+ },
+ "2609-0286": {
+  "confidence": 0.34,
+  "fraud": 0.34,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.36
+ },
+ "2609-0287": {
+  "confidence": 0.27,
+  "fraud": 0.23,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.355
+ },
+ "2609-0288": {
+  "confidence": 0.16,
+  "fraud": 0.16,
+  "latency_ms": 166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0289": {
+  "confidence": 0.19,
+  "fraud": 0.27,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.42
+ },
+ "2609-0290": {
+  "confidence": 0.33,
+  "fraud": 0.22,
+  "latency_ms": 199,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0291": {
+  "confidence": 0.13,
+  "fraud": 0.11,
+  "latency_ms": 3165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.29
+ },
+ "2609-0292": {
+  "confidence": 0.35,
+  "fraud": 0.1,
+  "latency_ms": 5156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0293": {
+  "confidence": 0.39,
+  "fraud": 0.41,
+  "latency_ms": 5184,
+  "origin": "live",
+  "risk_type": "round_amount",
+  "unusualness": 0.595
+ },
+ "2609-0294": {
+  "confidence": 0.55,
+  "fraud": 0.15,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0295": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0296": {
+  "confidence": 0.44,
+  "fraud": 0.75,
+  "latency_ms": 1172,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.96
+ },
+ "2609-0297": {
+  "confidence": 0.34,
+  "fraud": 0.61,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.775
+ },
+ "2609-0298": {
+  "confidence": 0.41,
+  "fraud": 0.14,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0299": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0300": {
+  "confidence": 0.76,
+  "fraud": 0.67,
+  "latency_ms": 208,
+  "origin": "live",
+  "risk_type": "new_vendor",
+  "unusualness": 0.915
+ },
+ "2609-0301": {
+  "confidence": 0.56,
+  "fraud": 0.1,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.14
+ },
+ "2609-0302": {
+  "confidence": 0.22,
+  "fraud": 0.24,
+  "latency_ms": 170,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0303": {
+  "confidence": 0.64,
+  "fraud": 0.15,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0304": {
+  "confidence": 0.45,
+  "fraud": 0.55,
+  "latency_ms": 186,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.945
+ },
+ "2609-0305": {
+  "confidence": 0.44,
+  "fraud": 0.1,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.18
+ },
+ "2609-0306": {
+  "confidence": 0.52,
+  "fraud": 0.1,
+  "latency_ms": 4154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ },
+ "2609-0307": {
+  "confidence": 0.43,
+  "fraud": 0.16,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0308": {
+  "confidence": 0.58,
+  "fraud": 0.1,
+  "latency_ms": 158,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0309": {
+  "confidence": 0.01,
+  "fraud": 0.11,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.33
+ },
+ "2609-0310": {
+  "confidence": 0.25,
+  "fraud": 0.13,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0311": {
+  "confidence": 0.55,
+  "fraud": 0.12,
+  "latency_ms": 1143,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.15
+ },
+ "2609-0312": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0313": {
+  "confidence": 0.57,
+  "fraud": 0.68,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.865
+ },
+ "2609-0314": {
+  "confidence": 0.98,
+  "fraud": 0.09,
+  "latency_ms": 145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0315": {
+  "confidence": 0.41,
+  "fraud": 0.33,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.415
+ },
+ "2609-0316": {
+  "confidence": 0.59,
+  "fraud": 0.1,
+  "latency_ms": 145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0317": {
+  "confidence": 0.91,
+  "fraud": 0.12,
+  "latency_ms": 144,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.03
+ },
+ "2609-0318": {
+  "confidence": 0.56,
+  "fraud": 0.15,
+  "latency_ms": 149,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0319": {
+  "confidence": 0.46,
+  "fraud": 0.77,
+  "latency_ms": 154,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.96
+ },
+ "2609-0320": {
+  "confidence": 0.02,
+  "fraud": 0.19,
+  "latency_ms": 1151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0321": {
+  "confidence": 0.64,
+  "fraud": 0.13,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.12
+ },
+ "2609-0322": {
+  "confidence": 0.36,
+  "fraud": 0.77,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.95
+ },
+ "2609-0323": {
+  "confidence": 0.16,
+  "fraud": 0.1,
+  "latency_ms": 165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.28
+ },
+ "2609-0324": {
+  "confidence": 0.2,
+  "fraud": 0.24,
+  "latency_ms": 155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.455
+ },
+ "2609-0325": {
+  "confidence": 0.52,
+  "fraud": 0.62,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "related_party",
+  "unusualness": 0.645
+ },
+ "2609-0326": {
+  "confidence": 0.32,
+  "fraud": 0.09,
+  "latency_ms": 163,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.225
+ },
+ "2609-0327": {
+  "confidence": 0.9,
+  "fraud": 0.12,
+  "latency_ms": 1161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.035
+ },
+ "2609-0328": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.015
+ },
+ "2609-0329": {
+  "confidence": 0.61,
+  "fraud": 0.13,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0330": {
+  "confidence": 0.2,
+  "fraud": 0.13,
+  "latency_ms": 147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0331": {
+  "confidence": 0.31,
+  "fraud": 0.14,
+  "latency_ms": 197,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.235
+ },
+ "2609-0332": {
+  "confidence": 0.97,
+  "fraud": 0.09,
+  "latency_ms": 177,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0333": {
+  "confidence": 0.82,
+  "fraud": 0.12,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.06
+ },
+ "2609-0334": {
+  "confidence": 0.22,
+  "fraud": 0.22,
+  "latency_ms": 141,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.265
+ },
+ "2609-0335": {
+  "confidence": 0.58,
+  "fraud": 0.14,
+  "latency_ms": 171,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0336": {
+  "confidence": 0.44,
+  "fraud": 0.12,
+  "latency_ms": 3165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.18
+ },
+ "2609-0337": {
+  "confidence": 0.0,
+  "fraud": 0.2,
+  "latency_ms": 3198,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.355
+ },
+ "2609-0338": {
+  "confidence": 0.98,
+  "fraud": 0.09,
+  "latency_ms": 157,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.005
+ },
+ "2609-0339": {
+  "confidence": 0.22,
+  "fraud": 0.25,
+  "latency_ms": 200,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.255
+ },
+ "2609-0340": {
+  "confidence": 0.28,
+  "fraud": 0.11,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.24
+ },
+ "2609-0341": {
+  "confidence": 0.66,
+  "fraud": 0.15,
+  "latency_ms": 167,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0342": {
+  "confidence": 0.62,
+  "fraud": 0.1,
+  "latency_ms": 191,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0343": {
+  "confidence": 0.44,
+  "fraud": 0.1,
+  "latency_ms": 178,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0344": {
+  "confidence": 0.44,
+  "fraud": 0.14,
+  "latency_ms": 252,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0345": {
+  "confidence": 0.25,
+  "fraud": 0.26,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.33
+ },
+ "2609-0346": {
+  "confidence": 0.27,
+  "fraud": 0.1,
+  "latency_ms": 184,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.245
+ },
+ "2609-0347": {
+  "confidence": 0.5,
+  "fraud": 0.12,
+  "latency_ms": 163,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ },
+ "2609-0348": {
+  "confidence": 0.2,
+  "fraud": 0.23,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0349": {
+  "confidence": 0.02,
+  "fraud": 0.13,
+  "latency_ms": 147,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.325
+ },
+ "2609-0350": {
+  "confidence": 0.44,
+  "fraud": 0.1,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.185
+ },
+ "2609-0351": {
+  "confidence": 0.64,
+  "fraud": 0.14,
+  "latency_ms": 179,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.125
+ },
+ "2609-0352": {
+  "confidence": 0.91,
+  "fraud": 0.12,
+  "latency_ms": 2155,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.03
+ },
+ "2609-0353": {
+  "confidence": 0.25,
+  "fraud": 0.31,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0354": {
+  "confidence": 0.41,
+  "fraud": 0.14,
+  "latency_ms": 179,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.2
+ },
+ "2609-0355": {
+  "confidence": 0.37,
+  "fraud": 0.13,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.215
+ },
+ "2609-0356": {
+  "confidence": 0.27,
+  "fraud": 0.1,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.245
+ },
+ "2609-0357": {
+  "confidence": 0.86,
+  "fraud": 0.11,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.045
+ },
+ "2609-0358": {
+  "confidence": 0.1,
+  "fraud": 0.18,
+  "latency_ms": 175,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0359": {
+  "confidence": 0.08,
+  "fraud": 0.23,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0360": {
+  "confidence": 0.32,
+  "fraud": 0.28,
+  "latency_ms": 163,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.325
+ },
+ "2609-0361": {
+  "confidence": 0.02,
+  "fraud": 0.12,
+  "latency_ms": 193,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0362": {
+  "confidence": 1.0,
+  "fraud": 0.06,
+  "latency_ms": 183,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.0
+ },
+ "2609-0363": {
+  "confidence": 0.41,
+  "fraud": 0.17,
+  "latency_ms": 145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.195
+ },
+ "2609-0364": {
+  "confidence": 0.47,
+  "fraud": 0.13,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.18
+ },
+ "2609-0365": {
+  "confidence": 0.34,
+  "fraud": 0.31,
+  "latency_ms": 1148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.35
+ },
+ "2609-0366": {
+  "confidence": 0.27,
+  "fraud": 0.12,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.375
+ },
+ "2609-0367": {
+  "confidence": 0.2,
+  "fraud": 0.22,
+  "latency_ms": 2146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.26
+ },
+ "2609-0368": {
+  "confidence": 0.39,
+  "fraud": 0.79,
+  "latency_ms": 2160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.98
+ },
+ "2609-0369": {
+  "confidence": 0.27,
+  "fraud": 0.1,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.25
+ },
+ "2609-0370": {
+  "confidence": 0.46,
+  "fraud": 0.14,
+  "latency_ms": 164,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.18
+ },
+ "2609-0371": {
+  "confidence": 0.55,
+  "fraud": 0.13,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0372": {
+  "confidence": 0.03,
+  "fraud": 0.19,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0373": {
+  "confidence": 0.28,
+  "fraud": 0.29,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0374": {
+  "confidence": 0.43,
+  "fraud": 0.09,
+  "latency_ms": 132,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.19
+ },
+ "2609-0375": {
+  "confidence": 0.58,
+  "fraud": 0.1,
+  "latency_ms": 348,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0376": {
+  "confidence": 0.25,
+  "fraud": 0.21,
+  "latency_ms": 179,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.26
+ },
+ "2609-0377": {
+  "confidence": 0.67,
+  "fraud": 0.09,
+  "latency_ms": 187,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0378": {
+  "confidence": 0.4,
+  "fraud": 0.24,
+  "latency_ms": 144,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.34
+ },
+ "2609-0379": {
+  "confidence": 0.28,
+  "fraud": 0.26,
+  "latency_ms": 172,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0380": {
+  "confidence": 0.32,
+  "fraud": 0.26,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.335
+ },
+ "2609-0381": {
+  "confidence": 0.97,
+  "fraud": 0.09,
+  "latency_ms": 181,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0382": {
+  "confidence": 0.59,
+  "fraud": 0.09,
+  "latency_ms": 1173,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.135
+ },
+ "2609-0383": {
+  "confidence": 0.98,
+  "fraud": 0.08,
+  "latency_ms": 2176,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0384": {
+  "confidence": 0.97,
+  "fraud": 0.08,
+  "latency_ms": 2181,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.01
+ },
+ "2609-0385": {
+  "confidence": 0.23,
+  "fraud": 0.25,
+  "latency_ms": 2166,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.45
+ },
+ "2609-0386": {
+  "confidence": 0.44,
+  "fraud": 0.12,
+  "latency_ms": 152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.18
+ },
+ "2609-0387": {
+  "confidence": 0.68,
+  "fraud": 0.09,
+  "latency_ms": 163,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.105
+ },
+ "2609-0388": {
+  "confidence": 0.35,
+  "fraud": 0.12,
+  "latency_ms": 159,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.22
+ },
+ "2609-0389": {
+  "confidence": 0.94,
+  "fraud": 0.09,
+  "latency_ms": 140,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.025
+ },
+ "2609-0390": {
+  "confidence": 0.11,
+  "fraud": 0.1,
+  "latency_ms": 146,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.3
+ },
+ "2609-0391": {
+  "confidence": 0.28,
+  "fraud": 0.28,
+  "latency_ms": 162,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0392": {
+  "confidence": 0.37,
+  "fraud": 0.2,
+  "latency_ms": 149,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.21
+ },
+ "2609-0393": {
+  "confidence": 0.9,
+  "fraud": 0.12,
+  "latency_ms": 151,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.04
+ },
+ "2609-0394": {
+  "confidence": 0.34,
+  "fraud": 0.28,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0395": {
+  "confidence": 0.74,
+  "fraud": 0.09,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.085
+ },
+ "2609-0396": {
+  "confidence": 0.67,
+  "fraud": 0.12,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.115
+ },
+ "2609-0397": {
+  "confidence": 0.35,
+  "fraud": 0.22,
+  "latency_ms": 256,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.41
+ },
+ "2609-0398": {
+  "confidence": 0.55,
+  "fraud": 0.1,
+  "latency_ms": 1170,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0399": {
+  "confidence": 0.07,
+  "fraud": 0.21,
+  "latency_ms": 160,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.305
+ },
+ "2609-0400": {
+  "confidence": 0.53,
+  "fraud": 0.13,
+  "latency_ms": 1165,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.15
+ },
+ "2609-0401": {
+  "confidence": 0.42,
+  "fraud": 0.77,
+  "latency_ms": 161,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.965
+ },
+ "2609-0402": {
+  "confidence": 0.11,
+  "fraud": 0.12,
+  "latency_ms": 1152,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.295
+ },
+ "2609-0403": {
+  "confidence": 0.49,
+  "fraud": 0.18,
+  "latency_ms": 169,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.165
+ },
+ "2609-0404": {
+  "confidence": 0.3,
+  "fraud": 0.13,
+  "latency_ms": 145,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.23
+ },
+ "2609-0405": {
+  "confidence": 0.04,
+  "fraud": 0.12,
+  "latency_ms": 148,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.32
+ },
+ "2609-0406": {
+  "confidence": 0.95,
+  "fraud": 0.09,
+  "latency_ms": 202,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.015
+ },
+ "2609-0407": {
+  "confidence": 0.56,
+  "fraud": 0.13,
+  "latency_ms": 156,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.145
+ },
+ "2609-0408": {
+  "confidence": 0.32,
+  "fraud": 0.11,
+  "latency_ms": 168,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.22
+ },
+ "2609-0409": {
+  "confidence": 0.52,
+  "fraud": 0.1,
+  "latency_ms": 177,
+  "origin": "live",
+  "risk_type": "normal",
+  "unusualness": 0.16
+ }
+}
